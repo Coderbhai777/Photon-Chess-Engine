@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\selfplay.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\selfplay.dir/objects.a @CMakeFiles\selfplay.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -O3 -DNDEBUG  -static -Wl,--whole-archive CMakeFiles\selfplay.dir/objects.a -Wl,--no-whole-archive -o selfplay.exe -Wl,--out-implib,libselfplay.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\selfplay.dir\linkLibs.rsp

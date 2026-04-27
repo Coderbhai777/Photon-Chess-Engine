@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libphoton_engine.a CMakeFiles/photon_engine.dir/engine/attacks.cpp.obj CMakeFiles/photon_engine.dir/engine/zobrist.cpp.obj CMakeFiles/photon_engine.dir/engine/board.cpp.obj CMakeFiles/photon_engine.dir/engine/movegen.cpp.obj CMakeFiles/photon_engine.dir/engine/eval.cpp.obj CMakeFiles/photon_engine.dir/engine/tt.cpp.obj CMakeFiles/photon_engine.dir/engine/search.cpp.obj CMakeFiles/photon_engine.dir/engine/uci.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libphoton_engine.a

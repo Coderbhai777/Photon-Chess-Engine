@@ -1,0 +1,12 @@
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/photon_engine.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/photon.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/perft_test.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/bench.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/selfplay.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/test.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/edit_cache.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/rebuild_cache.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/list_install_components.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/install.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/install/local.dir
+C:/Users/rashm/OneDrive/Desktop/Chess Evaluation Engine/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+[  5%] Building CXX object CMakeFiles/photon_engine.dir/engine/uci.cpp.obj
+mingw32-make[2]: *** [CMakeFiles\photon_engine.dir\build.make:184: CMakeFiles/photon_engine.dir/engine/uci.cpp.obj] Error 1
+mingw32-make[1]: *** [CMakeFiles\Makefile2:98: CMakeFiles/photon_engine.dir/all] Error 2
+mingw32-make: *** [Makefile:145: all] Error 2

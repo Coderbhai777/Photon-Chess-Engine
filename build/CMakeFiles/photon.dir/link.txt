@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\photon.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\photon.dir/objects.a @CMakeFiles\photon.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -O3 -DNDEBUG  -static -Wl,--whole-archive CMakeFiles\photon.dir/objects.a -Wl,--no-whole-archive -o photon.exe -Wl,--out-implib,libphoton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\photon.dir\linkLibs.rsp
