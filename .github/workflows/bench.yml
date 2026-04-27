@@ -1,0 +1,28 @@
+name: Fusion Benchmarker
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up MinGW
+      uses: egor-tensin/setup-gcc@v1
+      with:
+        memory-limit: 2GB
+
+    - name: Compile Fusion Engine
+      run: |
+        mkdir build
+        g++ -O3 -std=c++17 engine/*.cpp -o build/photon_fusion.exe -I engine -static
+
+    - name: Run Performance Bench
+      run: |
+        .\build\photon_fusion.exe bench
