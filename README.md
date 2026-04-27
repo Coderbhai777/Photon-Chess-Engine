@@ -26,7 +26,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/photon-fusion.git
+   git clone https://github.com/Coderbhai777/Photon-Chess-Engine.git
    cd photon-fusion
    ```
 2. Start the Fusion Bridge:
