@@ -27,7 +27,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Coderbhai777/Photon-Chess-Engine.git
-   cd photon-fusion
+   cd Photon-Chess-Engine
    ```
 2. Start the Fusion Bridge:
    ```bash
